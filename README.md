@@ -2,7 +2,7 @@
 Gruniożerca Meta is a port of the "classic" Gruniożerca game, originally for the NES.
 Created by Dark Archon (arhn.eu, code) and Neko (graphics). Original concept by Łukasz Kur.
 
-##Please note this code is WIP and subject to change!
+## Please note this code is WIP and subject to change!
 
 ## What is this?
 Gruniożerca for Gamebuino Meta is a simple sample project for the Gamebuino Meta system.
